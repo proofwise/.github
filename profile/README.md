@@ -1,13 +1,5 @@
 ## The QED Project
 
-⚠️ there is some work in progress here ⚠️
+⚠️ All development is happening in [qed-project/project](https://github.com/qed-project/project) ⚠️
 
-Inspired by the [QED manifesto](http://www.cs.ru.nl/~freek/qed/qed.html)
-
-### Manifest
-
-The manifest of the QED Project can be found [here](https://github.com/qed-project/manifest)
-
-### Contact
-
-[E-Mail](mailto:contact@lucalewin.dev)
+_Inspired by the [QED manifesto](http://www.cs.ru.nl/~freek/qed/qed.html)_
